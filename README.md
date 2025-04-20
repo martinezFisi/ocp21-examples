@@ -21,6 +21,7 @@ Este repositorio contiene ejemplos de código para la certificación Java OCP 21
 - 15 Nested class - Clases anidadas e internas
 - 16 Lambdas - Expresiones lambda y referencias a métodos
 - 17 streams - Uso de la API Stream
+- 18 Formatting - Formato de fechas y tiempo usando DateTimeFormatter
 
 ## Requisitos
 
